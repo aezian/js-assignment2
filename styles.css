@@ -1,0 +1,10 @@
+.homework2{
+  height:5rem;
+
+}
+#number {
+  width: max;
+  height: 50px;
+  overflow: scroll;
+  border: 1px solid black;
+}
